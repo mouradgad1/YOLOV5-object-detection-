@@ -1,4 +1,4 @@
-![YOLOv5 Example](figures/example.jpeg)
+![YOLOv5 Example](example.jpg)
 
 # YOLOv5 Face Detection
 
